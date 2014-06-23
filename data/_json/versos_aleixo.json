@@ -1,0 +1,32 @@
+[
+  {
+    "verso1":"o tempo todo tudo muda",
+    "verso2":"muda o tempo todo tudo",
+    "verso3":"todo tudo muda o tempo",
+    "verso4":"todo o tempo muda tudo",
+    "verso5":"todo tudo o tempo muda",
+    "verso6":"tudo o tempo muda todo",
+    "verso7":"muda o todo tudo tempo",
+    "verso8":"muda todo o tempo tudo"
+  },
+  {
+    "verso1":"muda todo tudo o tempo",
+    "verso2":"o tempo tudo muda todo",
+    "verso3":"todo o tempo tudo muda",
+    "verso4":"tempo o todo muda tudo",
+    "verso5":"tudo todo o tempo muda",
+    "verso6":"muda o tudo todo tempo",
+    "verso7":"o tempo muda todo tudo",
+    "verso8":"muda o tempo tudo todo"
+  },
+  {
+    "verso1":"tudo muda todo o tempo",
+    "verso2":"o tempo todo muda tudo",
+    "verso3":"tudo todo o tempo muda",
+    "verso4":"muda tudo o tempo todo",
+    "verso5":"muda tudo todo o tempo",
+    "verso6":"tudo muda o tempo todo",
+    "verso7":"tempo o todo tudo muda",
+    "verso8":"tudo o tempo todo muda"
+  }
+]
